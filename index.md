@@ -3,9 +3,9 @@ This will serve as a brief description of your project. Limit this to three sent
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Firstname Lastname | Current Highschool | Electrical Engineering | Incoming Senior
+| Chris Lee | Purdue | CS | Incoming Sophomore
 
-![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLUiCqErDMPOqEVHgkYHL7oE6-_lftoYEuft0xJpkM56i_3DcyuN3cSg1hY_ntpgsJJzZwGfuaJwijDKyhYCyr9m8Xb9mhvmT_nnB1onppuxZoLal4zccR_T1_9QYi-Mj94Qq8QUFoICbWreS5Mjifzd=w765-h764-no?authuser=0)
+![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLUs34l1tyNJTUKSLyaKz-kIGK9fnEBM1Me7oWDi9mlL5cS_06oFhJz_D0Ey2YoYPASqmSnEuUlxU5ng6tcS27R8TLsc1obBO4BN5nAj57S0xueLNIdNDCR7BKxehwp3kNpF_Qv09AY441ei6peC4YBt=s765-no?authuser=0)
   
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
@@ -22,7 +22,6 @@ My first milestone was setting up and hooking up the Raspberry Pi and all the ne
 
 [![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
 
-# Starter Project
-【My starter project was the _____. talk about starter project】
+# Starter Project 
 
-[![Starter Project](https://i3.ytimg.com/vi/2nmwXzWEXsU/maxresdefault.jpg)](https://youtu.be/2nmwXzWEXsU "Starter Project"){:target="_blank" rel="noopener"}
+[![Starter Project](https://i3.ytimg.com/vi/0r1jMHuBnds/maxresdefault.jpg)](https://www.youtube.com/watch?v=0r1jMHuBnds  "First Milestone"){:target="_blank" rel="noopener"}
