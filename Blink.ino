@@ -1,5 +1,5 @@
 /*
-  Blink TEST TEST
+  Blink TEST TEST 3
 
   Turns an LED on for one second, then off for one second, repeatedly.
 
